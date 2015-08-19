@@ -13,7 +13,7 @@
                 <STYLEBUTTON themaId="style1" text="open" img="#0080ff" onClick="cam.open"/>
                 <STYLEBUTTON themaId="style1" text="close" img="pink" onClick="cam.close"/>
                 <STYLEBUTTON themaId="style1" text="front" img="yello" onClick="cam.type='front'"/>
-                <STYLEBUTTON themaId="style1" text="back" img="#orange" onClick="cam.type='back'"/>
+                <STYLEBUTTON themaId="style1" text="back" img="orange" onClick="cam.type='back'"/>
             </WINDOW>
         </WINDOW>
     </UILAYOUT>
